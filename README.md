@@ -1,8 +1,7 @@
-# React + Vite
+# CineNexus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- CineNexus is a website built with React that showcases movies using the MovieDB API.
+- It has a navbar with different sections: Home, Popular, Top Rated, and Upcoming.
+- Each movie is displayed in a card format with a "See Details" button for more information.
+- Users can search for specific movies using a search bar, with results that link to detailed information.
+- The website includes a theme toggle option, allowing users to switch between dark and light themes.
